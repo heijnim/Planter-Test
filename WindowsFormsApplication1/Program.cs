@@ -14,6 +14,7 @@ namespace WindowsFormsApplication1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            MessageBox.Show("Test");
             Application.Run(new Form1());
         }
     }
