@@ -4,7 +4,7 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
-    static class Program //XXXXXXXX
+    static class Program //Ja het wert!
     {
         /// <summary>
         /// The main entry point for the application.
